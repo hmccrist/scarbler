@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scarbler/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/scarbler/static/js/main.35b13568.chunk.js",
-    "main.js.map": "/scarbler/static/js/main.35b13568.chunk.js.map",
+    "main.js": "/scarbler/static/js/main.ef073694.chunk.js",
+    "main.js.map": "/scarbler/static/js/main.ef073694.chunk.js.map",
     "runtime-main.js": "/scarbler/static/js/runtime-main.42db9b49.js",
     "runtime-main.js.map": "/scarbler/static/js/runtime-main.42db9b49.js.map",
     "static/js/2.8402a329.chunk.js": "/scarbler/static/js/2.8402a329.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.42db9b49.js",
     "static/js/2.8402a329.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.35b13568.chunk.js"
+    "static/js/main.ef073694.chunk.js"
   ]
 }
