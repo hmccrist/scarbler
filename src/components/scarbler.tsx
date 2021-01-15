@@ -126,7 +126,7 @@ function Scarbler() {
                 <div className={classes.firstColumn}>
                     <div className={classes.coordinates}>
                         <p>index: {hoveredCoord}</p>
-                        <p>ISCCoord: {ISCCoord}</p>
+                        <p>Coord: {ISCCoord}</p>
                     </div>
                     <Rack 
                             rackValues={rackValues}
