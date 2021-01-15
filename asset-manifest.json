@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scarbler/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/scarbler/static/js/main.35b13568.chunk.js",
+    "main.js.map": "/scarbler/static/js/main.35b13568.chunk.js.map",
+    "runtime-main.js": "/scarbler/static/js/runtime-main.42db9b49.js",
+    "runtime-main.js.map": "/scarbler/static/js/runtime-main.42db9b49.js.map",
+    "static/js/2.8402a329.chunk.js": "/scarbler/static/js/2.8402a329.chunk.js",
+    "static/js/2.8402a329.chunk.js.map": "/scarbler/static/js/2.8402a329.chunk.js.map",
+    "static/js/3.3c0819a6.chunk.js": "/scarbler/static/js/3.3c0819a6.chunk.js",
+    "static/js/3.3c0819a6.chunk.js.map": "/scarbler/static/js/3.3c0819a6.chunk.js.map",
+    "index.html": "/scarbler/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/scarbler/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.8402a329.chunk.js.LICENSE.txt": "/scarbler/static/js/2.8402a329.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42db9b49.js",
+    "static/js/2.8402a329.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.35b13568.chunk.js"
+  ]
+}
